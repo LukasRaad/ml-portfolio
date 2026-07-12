@@ -4,11 +4,11 @@
 
 ### Time Series Analysis
 
-[Particle Filter](/sample_page)
+[Particle Filter](sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Power Price Forecasting](/pdf/sample_presentation.pdf)
+[Power Price Forecasting](sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
