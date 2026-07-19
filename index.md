@@ -1,25 +1,35 @@
-## Portfolio
+# Portfolio
+
+## Time Series Analysis
+
+### Particle Filter
+
+[![View on GitHub](https://img.shields.io/badge/Github-particle_filter-blue?logo=github)](https://github.com/LukasRaad/particle_filter)
+ 
+Solution for the final assignment in the DTU Course 02427 Advanced Time Series Analysis. 
+
+Implemented a particle filter to esimate position in a map using noisy depth measurements.
+
+(here an image)
 
 ---
 
-### Time Series Analysis
+### Power Price Forecasting
 
-[Particle Filter](sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![View on GitHub](https://img.shields.io/badge/Github-price_forecasting-blue?logo=github)](https://github.com/LukasRaad/price_forecasting)
 
----
-[Power Price Forecasting](sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+## Deep Learning
 
-### Deep Learning
+### Denoising Diffusion Probabilistic Models
 
-- [DDPM](http://example.com/)
-- [XAI for Time Series](xai_page)
+[![View on GitHub](https://img.shields.io/badge/Github-DDPM-blue?logo=github)](https://github.com/LukasRaad/ddpm-torch)
+[![View md](https://img.shields.io/badge/Project_page-DDPM-green)](ddpm.md)
 
----
+### XAI for Time Series
 
+[![View on GitHub](https://img.shields.io/badge/Github-XAI_for_Time_series-blue?logo=github)](https://github.com/LukasRaad/Explainability-for-Time-series)
+[![View md](https://img.shields.io/badge/Project_page-XAI-green)](XAI.md)
 
 
 ---
